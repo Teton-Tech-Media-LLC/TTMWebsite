@@ -12,7 +12,7 @@ html{
 body{
     margin: 0px;
     padding: 5%;
-    background-image: url(/assets/backgroundImage.jpg);
+    background-image: url("/assets/backgroundImage.jpg");
 }
 
 main{
