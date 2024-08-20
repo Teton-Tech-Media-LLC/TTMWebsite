@@ -1,0 +1,24 @@
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 5%;
+    background-image: url(/assets/backgroundImage.jpg);
+    background-color: rgba(255, 255, 255, 0.699);
+}
+
+main{
+    box-shadow: 1px 1px 24px rgba(97, 97, 97, 0.34);
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 5%;
+}
