@@ -7,7 +7,7 @@
 html{
     margin: 0px;
     padding: 0px;
-    background-image: url('../assets/backgroundImage.jpg');
+    background-image: url("../assets/backgroundImage.jpg");
 }
 
 body{
